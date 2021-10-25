@@ -7,7 +7,7 @@ package taller1comp;
 
 /**
  *
- * @author Diego
+ * @author Mendoza-Diego_Muñoz-Tomas_Torres-Sebastian
  */
 public class Queue {
     
